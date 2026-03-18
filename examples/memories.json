@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "text": "I regret not talking to my brother.",
+    "topic": "family",
+    "tags": ["regret", "family"],
+    "timestamp": "2025-01-01",
+    "weight": 0.6,
+    "trust": 0.9
+  },
+  {
+    "id": 2,
+    "text": "I once thought about ending my life.",
+    "topic": "mental-health",
+    "tags": ["suicidal_thoughts"],
+    "timestamp": "2025-02-10",
+    "weight": 0.8,
+    "trust": 1.0
+  },
+  {
+    "id": 3,
+    "text": "I felt supported when my grandmother cooked for me.",
+    "topic": "family",
+    "tags": ["family", "support-thread"],
+    "timestamp": "2025-03-05",
+    "weight": 0.7,
+    "trust": 0.9
+  },
+  {
+    "id": 4,
+    "text": "Running outside gave me clarity and calm.",
+    "topic": "health",
+    "tags": ["hope", "routine"],
+    "timestamp": "2025-03-20",
+    "weight": 0.5,
+    "trust": 1.0
+  },
+  {
+    "id": 5,
+    "text": "Confusion during classes made me frustrated.",
+    "topic": "academic",
+    "tags": ["regret"],
+    "timestamp": "2025-04-01",
+    "weight": 0.4,
+    "trust": 0.8
+  },
+  {
+    "id": 6,
+    "text": "Talked about ex-relationship and felt overwhelmed.",
+    "topic": "ex-relationship",
+    "tags": ["sensitive"],
+    "timestamp": "2025-04-15",
+    "weight": 0.65,
+    "trust": 0.7
+  },
+  {
+    "id": 7,
+    "text": "Advisor praised the draft; felt gratitude and motivation.",
+    "topic": "research",
+    "tags": ["support-thread"],
+    "timestamp": "2025-05-01",
+    "weight": 0.6,
+    "trust": 1.0
+  },
+  {
+    "id": 8,
+    "text": "Support message from a friend reduced stress.",
+    "topic": "social",
+    "tags": ["support-thread"],
+    "timestamp": "2025-05-10",
+    "weight": 0.45,
+    "trust": 0.9
+  }
+]
